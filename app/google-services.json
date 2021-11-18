@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521877308149",
+    "project_id": "something-cool-2b6ac",
+    "storage_bucket": "something-cool-2b6ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521877308149:android:298b39aacd118f4046bbbc",
+        "android_client_info": {
+          "package_name": "com.example.somethingcool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521877308149-7pkpg60pjk49ns9pumoi32rmc4bgm945.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLpcOYgDs3q2ta9zw962UthgSyJVdxT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521877308149-7pkpg60pjk49ns9pumoi32rmc4bgm945.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
